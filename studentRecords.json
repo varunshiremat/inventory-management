@@ -1,0 +1,42 @@
+{
+  "1": {
+    "session": "2020-21",
+    "first_name": "Ravi prakash",
+    "last_name": "Shrivastav",
+    "class": "12",
+    "section": "B",
+    "gender": "Male",
+    "father": "Rajesh Kumar",
+    "mother": "Ranjana Kumari",
+    "mobile": "3256897412",
+    "address": "Rajasthan , INDIA"
+  },
+  "2": {
+    "session": "2020-21",
+    "first_name": "sb",
+    "last_name": "rs",
+    "class": "1",
+    "section": "A",
+    "gender": "Male",
+    "father": "sang",
+    "mother": "rih",
+    "mobile": "980546567",
+    "address": "dxd"
+
+  },
+  "3": {
+    "session": "2020-21",
+    "first_name": "ab",
+    "last_name": "os",
+    "class": "5",
+    "section": "B",
+    "gender": "Female",
+    "father": "ang",
+    "mother": "rikh",
+    "mobile": "980546586",
+    "address": "dod"
+
+  }
+
+
+}
